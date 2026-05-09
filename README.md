@@ -9,6 +9,6 @@
 
 | Module | Topic | Description | YouTube | code |
 |--------|-------|-------------|------|---------|
-| 01 | Introduction t | Overview of the course and  | [Link](./00-Introduction/README.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+| 01 | print function and variablels in Python | Understanding Print Function and its working code with understanding of 'variables' concept | [Link](./00-Introduction/README.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16L743x3k1y2UykIi-991vo_3PYYfZv_t?usp=sharing)
 
 <!-- CO-OP TRANSLATOR OTHER COURSES END -->
