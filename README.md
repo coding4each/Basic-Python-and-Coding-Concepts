@@ -1,6 +1,5 @@
 # Basic Python and Coding Concepts
-![Coding-4-Each](./logo.png) 
-
+![Coding-4-Each](./logo_small.png)
 ### Roadmap Journey : [![Watch the video](./Thumbnail1.png)](https://www.youtube.com/watch?v=RotZgEP1Ujw)
 
 ## This Repo will contain Basic Python Notebooks along with Coding Concepts in Python
