@@ -31,6 +31,7 @@
 | 06 | Operators in Python - Part 1 | Understanding the Airthmetic and Assignment Operators and using it with Integer float and string data types | [Link](https://www.youtube.com/watch?v=5vNnevNjHV4) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d7NvNaJQeLxF3WmzBvSiKiSlOkbPE4Nj?usp=sharing)
 | 07 | Operators in Python - Part 2 | Understanding the Comparison and Logical Operators and using it with Integer float and string data types | [Link](https://youtu.be/KEm33iGsVnM) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d7NvNaJQeLxF3WmzBvSiKiSlOkbPE4Nj?usp=sharing)
 | 08 | Operators in Python - Part 3 | Understanding the Comparison Operators with Strings, ASCII value conversion and comparison | [Link](https://youtu.be/G9N0bsd9zlY) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d7NvNaJQeLxF3WmzBvSiKiSlOkbPE4Nj?usp=sharing)
+| 09 | Playing with Strings - Part 1 | Understanding Strings in Python with playing around length,  indexing and Slicing | [Link](https://youtu.be/uB_yZuH2nIA) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1n_Oy7MswOEXMGF8zk-XkIegc3kAF0Z1g?usp=sharing)
 
 
 
