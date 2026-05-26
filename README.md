@@ -34,6 +34,7 @@
 | 09 | Playing with Strings - Part 1 | Understanding Strings in Python with playing around length,  indexing and Slicing | [Link](https://youtu.be/uB_yZuH2nIA) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1n_Oy7MswOEXMGF8zk-XkIegc3kAF0Z1g?usp=sharing)
 | 10 | Playing with Strings - Part 2 | Understanding Common Methods in Python - Upper(), lower(), split(), strip(), replace() | [Link](https://youtu.be/uKaDBg7aygw) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1n_Oy7MswOEXMGF8zk-XkIegc3kAF0Z1g?usp=sharing)\
 | 11 | Decision Making in Python - Part 1 | Understanding If Else and Elif Statements in python to build logics and perfrom decision making | [Link](https://youtu.be/Kq8qy-jyvo4) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11rmQe7XHA_gr017Gv-iFlGxtX0dHeejR?usp=sharing)
+| 12 | Decision Making in Python - Part 2 | Understanding Nested If Else with multiple playable examples to easily understand complex nested conditions | [Link](https://youtu.be/E8DfS2Fb4jM) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11rmQe7XHA_gr017Gv-iFlGxtX0dHeejR?usp=sharing)
 
 
 
