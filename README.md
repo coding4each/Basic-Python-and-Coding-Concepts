@@ -38,6 +38,9 @@
 | 13 | Loops in Python - Part 1 | Understanding For loops and Range functions along with string formatting in Python | [Link](https://www.youtube.com/watch?v=I7O4B3sx3U4) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oG5lme7gkWHlHFZbZVD6N6PY8KmldlCL?usp=sharing)
 | 14 | Loops in Python - Part 2 | Understanding While loops in Python | [Link](https://youtu.be/3vko3QW5fGs) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oG5lme7gkWHlHFZbZVD6N6PY8KmldlCL?usp=sharing)
 | 15 | Loops in Python - Part 3 | Controlling Loops using break, continue and pass keywords along with multiple example to understand loops better in Python  | [Link](https://youtu.be/N4lqUm2RyRY) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oG5lme7gkWHlHFZbZVD6N6PY8KmldlCL?usp=sharing)
+| 16 | Collections in Python - List | Understanding List, an inbuilt data structure in Python to store variables of different data types and objects etc. | [Link](https://www.youtube.com/watch?v=fOE2-3eYqM8) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JQsiMA9WdnX11JvGWlH60iEAWS3-ZNN9?usp=sharing)
+
+
 
 
 
